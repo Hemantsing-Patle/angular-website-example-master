@@ -96,3 +96,5 @@ getSettings(database: string, id?: number): Observable<any> {
 ## :envelope: Contact
 
 * Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
+
+## : Thank You Bateman for such beautiful Angular Website
