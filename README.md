@@ -70,25 +70,6 @@ getSettings(database: string, id?: number): Observable<any> {
 
 ## :clap: Inspiration
 
-* [Create your first website using angular 6 -- Part 1 -- HTML Template to Angular Component](https://www.youtube.com/watch?v=LYmJOdCuXrs&list=UUcfCHgDDBw65jdnd9DTKwgg&index=19)
-* [Create your first website using angular 6 -- Part 2-- Routing and Static data to configuration file](https://www.youtube.com/watch?v=JAb0vvr6foU)
-* [Create your first website using angular 6 -- Part 3 -- Configuration File](https://www.youtube.com/watch?v=qBjn8TrXyPY)
-* [Create your first website using angular 6 -- Part 4 -- Add BLOG Section](https://www.youtube.com/watch?v=0Nnm2rup5b8)
-* [Create your first website using angular 6 -- Part 5 -- 404 Component and Pagination for blog](https://www.youtube.com/watch?v=0Nnm2rup5b8)
-* [Create your first website using angular 6 -- Part 6-- Login Signup and Contact form using In Memory](https://www.youtube.com/watch?v=0Nnm2rup5b8)
-* [Create your first website using angular 6 -- Part 7-- Add JQUERY and existing JS](https://www.youtube.com/watch?v=0Nnm2rup5b8)
-* [Create your first website using angular 6 -- Part 8-- blog post Markdown Editor](https://www.youtube.com/watch?v=0Nnm2rup5b8)
-* [Create your first website using angular 6 -- Part 9 -- Static to Dynamic Menu populated from DB](https://www.youtube.com/watch?v=0Nnm2rup5b8)
-* [Create your first website using angular 6 -- Part 10 -- User Dashboard Module](https://www.youtube.com/watch?v=0Nnm2rup5b8)
-* [Create your first website using angular 6 -- Part 11 -- Named Router Outlets](https://www.youtube.com/watch?v=LKCjQqzc5Ys)
-* [Create your first website using angular 6 -- Part 12 -- Local Development SSL](https://www.youtube.com/watch?v=2vbWjzROtUc)
-* [Create your first website using angular 6 -- Part 13 -- Components to Feature Modules](https://www.youtube.com/watch?v=WDNV4iifHwM)
-* [Create your first website using angular 6 -- Part 14 -- Components to Feature Modules](https://www.youtube.com/watch?v=tj7V67-BY5U)
-* [Create your first website using angular 6 -- Part 15 -- Blog Component to Blog Feature Module](https://www.youtube.com/watch?v=By4tT-bNDXY)
-* [Create your first website using angular 6 -- Part 16 -- Creating email contact form API](https://www.youtube.com/watch?v=eNj9XbE9kdk&t=22s)
-* [Create your first website using angular 6 -- Part 17 -- send email from Angular APP](https://www.youtube.com/watch?v=QCnoamZnTsQ&t=23s)
-* [One Page Love website of html templates](https://onepagelove.com/namari)
-
 ## :file_folder: License
 
 * N/A
@@ -98,3 +79,5 @@ getSettings(database: string, id?: number): Observable<any> {
 * Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
 
 ## : Thank You Bateman for such beautiful Angular Website
+
+## : Deleted clap: Inspiration under all Youtube Link
