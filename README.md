@@ -81,3 +81,6 @@ getSettings(database: string, id?: number): Observable<any> {
 ## : Thank You Bateman for such beautiful Angular Website
 
 ## : Deleted clap: Inspiration under all Youtube Link
+
+
+## Thanks 
